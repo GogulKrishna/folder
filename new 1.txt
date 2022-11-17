@@ -9,3 +9,4 @@ SCRUM
 SCRUM MASTER
 SPRINT
 DONE
+ok im typing now
